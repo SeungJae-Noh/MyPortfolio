@@ -4,8 +4,6 @@
 
 **📧 cherin766@gmail.com** | **📱 010-6339-0949** | **💼 경력 4년 (2022.01 ~ 현재)**
 
-현재 플레이투큐어 주임연구원 | 멀티테넌트 아키텍처 설계 및 AWS 클라우드 인프라 전문
-
 </div>
 
 ---
@@ -103,7 +101,7 @@ Unity/C# 개발 경험을 통해 프론트엔드와의 원활한 협업이 가�
 - **Infrastructure**: AWS, Docker, Nginx, Gunicorn
 
 #### 프로젝트 성과
-- ✅ **5개 이상의 병원 테넌트** 안정적 운영 중
+- ✅ **5개 이상의 개발테스트용 병원 테넌트** 안정적 운영 중
 - ✅ **API 응답 시간 평균 100ms 이하** 유지
 - ✅ **99.9% 서버 가동률** 달성
 
@@ -222,14 +220,13 @@ Unity/C# 개발 경험을 통해 프론트엔드와의 원활한 협업이 가�
 ## 🎯 향후 목표
 
 ### 단기 목표 (6개월)
-- Java/Spring Boot 학습 및 토이 프로젝트 구현
-- Node.js/TypeScript/NestJS 마스터
+- Java/Spring Boot 학습
+- Node.js/TypeScript/NestJS 학습
 - Kubernetes 기반 컨테이너 오케스트레이션 학습
 
 ### 중기 목표 (1년)
 - MSA(Microservices Architecture) 실무 적용
 - CI/CD 파이프라인 구축 경험
-- 오픈소스 프로젝트 기여
 
 ### 장기 목표 (2년 이상)
 - 시니어 백엔드 개발자로 성장
